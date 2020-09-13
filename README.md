@@ -1,2 +1,2 @@
 # AulaTiago
-Arquivo de teste par aaula do Tiago no ISFP
+Arquivo de teste para aula do Tiago no ISFP
